@@ -1,0 +1,28 @@
+#menu img{
+    border: 1px solid;
+    margin: 15px;
+    padding: 15px;
+    height: 150px;
+    width: 200px;
+}
+#pimg {
+	border: 1px solid red;
+    height: 170px;
+    width: 250px;
+
+}
+#stat{
+	width:300px;
+	color:red;
+	text-align:center;
+}
+.hadeen{
+	display:none;
+}
+ #show img{
+    border: 1px solid;
+    margin: 15px;
+    padding: 15px;
+    height: 150px;
+    width: 150px;
+}
