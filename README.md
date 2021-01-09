@@ -1,0 +1,2 @@
+# Online-seller
+•It is an online sales process that displays a product group of 10 products and displays information and prices for these products.  •display all products. •allow the user to click on one product and display the information about this product in details. •there are navigation buttons, therefore the user can move to the next and the previous product’s information. •allow users to select a product for buying. •display all products that the user has selected them for buying.
